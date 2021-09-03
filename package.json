@@ -13,7 +13,7 @@
     "test": "npm run lint"
   },
   "dependencies": {
-    "axios": "0.17.1",
+    "axios": "0.21.1",
     "clipboard": "1.7.1",
     "codemirror": "5.32.0",
     "date-fns": "^1.29.0",
